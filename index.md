@@ -8,7 +8,7 @@ Here's a clickable link: [My favorite AI assistant](https://chatgpt.com/)
 
 ## Images
 
-![Kansas City](["C:\Users\trent\OneDrive\Documents\Shiny_Exploration.png"](https://visitkcd8.s3.us-west-2.amazonaws.com/s3fs-public/styles/1440x476/public/union_station_city_skyline.jpg.webp?VersionId=.FO2UFVFQVR26dMqhy..sCrpIaOP2HxV&itok=smF6cF_6))
+![Kansas City](https://assets.vogue.com/photos/5beb5d0f6bcde32d29413a88/master/w_1920,c_limit/00-story-image-kansas-city-missouri-travel-guide.jpg)
 
 ## Reminders
 
